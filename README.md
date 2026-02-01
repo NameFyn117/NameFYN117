@@ -1,8 +1,7 @@
 ## 你好 👋
 
-我是一只卑微的初二牲，目前喜欢用 Github Copilot 写一些有意思的程序，<br>
-同时我也计划着自己开始写代码，<br>
-~~不过这句话我好像114514个世纪前就说过~~
+我是一只卑微的初二牲，目前用 Github Copilot 写点程序，以及自己学着写点代码。<br>
 
-我的作品(基于Github Copilot):<br>
-[Unlock Red Spider](https://www.github.com/NameFyn117/unlock_red_spider "一款基于 Flutter 开发的小工具，用于在微机室电脑上临时删除 红蜘蛛多媒体网络教室 软件。")
+我的作品:<br>
+[Unlock Red Spider](https://www.github.com/NameFyn117/unlock_red_spider "一款基于 Flutter 开发的小工具，用于在微机室电脑上临时删除 红蜘蛛多媒体网络教室 软件。")(基于Github Copilot)
+[ExamHelper](https://www.github.com/NameFYN117/ExamHelper "基于 WPF 的考试信息显示软件，可以在 Windows 屏幕上显示考试相关信息。")
