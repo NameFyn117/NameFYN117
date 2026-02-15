@@ -5,4 +5,4 @@
 ### 我的作品:<br>
 [ExamHelper](https://www.github.com/NameFYN117/ExamHelper "基于 WPF 的考试信息显示软件，可以在 Windows 屏幕上显示考试相关信息。")<br>基于 WPF 的考试信息显示软件，可以在 Windows 屏幕上显示考试相关信息。
 
-[Unlock Red Spider](https://www.github.com/NameFyn117/unlock_red_spider "一款基于 Flutter 开发的小工具，用于在微机室电脑上临时删除 红蜘蛛多媒体网络教室 软件。")<br>基于 Flutter，Github Copilot协助了本应用的开发
+[Unlock Red Spider](https://www.github.com/NameFyn117/unlock_red_spider "一款基于 Flutter 开发的小工具，用于在微机室电脑上临时删除 红蜘蛛多媒体网络教室 软件。")<br>基于 Flutter，Github Copilot协助了本应用的开发。
